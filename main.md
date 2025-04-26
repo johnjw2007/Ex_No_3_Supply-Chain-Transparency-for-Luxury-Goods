@@ -66,3 +66,4 @@ Teaches real-world supply chain use cases.
 
 # RESULT : 
 ![Screenshot 2025-04-26 143329](https://github.com/user-attachments/assets/f1a89e32-d0ce-4be7-b7a1-15390871151c)
+![image](https://github.com/user-attachments/assets/acfc5acc-ed73-437b-85cf-35160cdd75f9)
