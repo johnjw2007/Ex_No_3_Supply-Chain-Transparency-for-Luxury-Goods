@@ -65,3 +65,4 @@ Helps prevent counterfeit luxury goods.
 Teaches real-world supply chain use cases.
 
 # RESULT : 
+![Screenshot 2025-04-26 143329](https://github.com/user-attachments/assets/f1a89e32-d0ce-4be7-b7a1-15390871151c)
